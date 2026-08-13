@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Cormorant+Garamond:ital,wght@1,500;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=EB+Garamond:ital,wght@1,500;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap');
 
 :root{
   --paper: #F7F1E4;
@@ -56,14 +56,13 @@ nav.site-nav .wrap{
   gap:16px;
 }
 .brand{
-  font-family:'Cormorant Garamond', serif;
+  font-family:'EB Garamond', serif;
   font-style:italic;
-  font-size:27px;
+  font-size:29px;
   font-weight:600;
   color:var(--brown);
-  letter-spacing:0.01em;
+  letter-spacing:0.02em;
 }
-.brand span{color:var(--gold);}
 .nav-links{
   display:flex;
   gap:26px;
